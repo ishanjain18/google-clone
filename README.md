@@ -26,6 +26,7 @@ This mini-project was made as a part of [CS50 WEB](https://cs50.harvard.edu/web/
 ![alt text](https://raw.githubusercontent.com/ishanjain18/google-clone/main/rmIMG3.jpeg)
 <hr>
 
+![](project0.gif)
 
 
 
