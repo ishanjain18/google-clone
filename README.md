@@ -17,7 +17,10 @@ This mini-project was made as a part of [CS50 WEB](https://cs50.harvard.edu/web/
 ## Highlights
 
 ![alt text](https://github.com/ishanjain18/google-clone/blob/main/rmIMG1.jpeg?raw=true)
-
+<hr>
+![alt text](https://github.com/ishanjain18/google-clone/blob/main/rmIMG2.jpeg?raw=true)
+<hr>
+![alt text](https://github.com/ishanjain18/google-clone/blob/main/rmIMG3.jpeg?raw=true)
 <hr>
 
 
