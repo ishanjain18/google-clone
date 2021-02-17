@@ -1,0 +1,194 @@
+body
+{
+    background-image: url("bckimg3.jpg");
+    height: 100%; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: "Arial", sans-serif;
+    overflow:hidden;
+}
+.adv
+{
+    position: absolute;
+    z-index: 1;
+    margin-left: 50px;
+    display: flexbox;
+    margin-right: 50px;
+    
+}
+
+.titl0
+{
+    position: absolute;
+    z-index: 1;
+    margin-top: 10px;
+    margin-left: 15px;
+    font-family: 'Century Gothic';
+    text-align: center;
+    font-size: 30px;
+    font-weight: 550;
+    letter-spacing: -2px;
+}
+
+.titl1
+{
+    margin-top: 15px;
+    font-size: 20px;
+    font-weight: 100;
+}
+
+.google
+{
+    font-family: 'Century Gothic';
+    text-align: center;
+    font-size: 90px;
+    font-weight: 550;
+    letter-spacing: -5px;
+}
+
+.bum
+{
+    font-family: 'Open Sans', sans-serif;
+    position: relative;
+    z-index: 1;
+    font-size: 20px;
+    font-weight: 100;
+    letter-spacing: normal;
+    left: 117px;
+    top: -8px;
+}
+
+.red:hover
+{
+    color:orangered;
+}
+
+.green:hover
+{
+    color: green;
+}
+
+.royalblue:hover
+{
+    color: royalblue;
+}
+
+.yellow:hover
+{
+    color:yellow;
+}
+
+.blue:hover
+{
+    color: dodgerblue;
+}
+
+div.links
+{
+    text-align: right;
+    padding: 25px;
+    z-index: -1;
+}
+
+div.advlinks
+{
+    text-align: right;
+    height: 20px;
+    z-index: -1;
+}
+
+div.sbar
+{
+    text-align: center;
+}
+
+.bar
+{
+    font-family: 'Open Sans', sans-serif;
+    display: block;
+    margin: 0 auto;
+    height: 45px;
+    width: 550px;
+    font-size: 17px;
+    border-radius: 22px;
+    padding-left: 45px;
+    border-color: white;
+}
+
+.btn
+{
+    margin-top: 30px;
+    margin-right: 10px;
+}
+
+
+
+input[type=search]:hover
+{
+    box-shadow:0 1px 5px rgba(32,33,36,.28);
+    border: none;
+}
+
+input[type=search]:focus
+{
+    box-shadow:0 1px 5px rgba(32,33,36,.28);
+    border: none;
+}
+
+.icon
+{
+    position: relative;
+    top: 33.5px;
+    left: -250px;
+}
+
+.backdiv
+{
+    background-color: rgb(241, 241, 241)
+}
+
+.inpbox
+{
+    display: inline-block;
+    float: right;
+    margin-left: 30px;
+    min-width: 167px;
+    height: 35px;
+}
+
+.advbtn
+{   
+    position: relative;
+    left: 631px;
+    top: 10px;
+    background-color: cornflowerblue;
+    padding: 0 12px;
+    color: #fff;
+    font-size: 11px;
+    font-weight: bold;
+    text-align: center;
+    white-space: nowrap;
+    width: 120px;
+    height: 30px;
+    border-radius: 2px;
+    border: 1px solid #3079ed;
+    background-image: -webkit-linear-gradient(top,#4d90fe,#4787ed);
+}
+
+.field
+{
+    border-radius: 1px;
+    border: 1px solid #d9d9d9;
+    border-top: 1px solid #c0c0c0;
+    font-size: 13px;
+    width: 572px;
+    height: 29px;
+    padding: 1px 8px;
+}
+
+p.inptxt
+{
+    font-size: 13px;
+    font-family: Arial, sans-serif;
+}
