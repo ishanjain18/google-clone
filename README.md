@@ -16,6 +16,9 @@ This mini-project was made as a part of [CS50 WEB](https://cs50.harvard.edu/web/
 
 ## Highlights
 
+![screenshot](rmIMG.jpeg)
+
+
 ### Individuals
 
 <a href="https://opencollective.com/readme-md-generator"><img src="https://opencollective.com/readme-md-generator/individuals.svg?width=890"></a>
