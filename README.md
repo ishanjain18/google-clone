@@ -13,6 +13,7 @@ The core-functionalities are achieved by redirecting to Google's original Search
 <div align="center">
   <img src='project0.gif'>
 </div>
+
 ## Motivation
 
 This mini-project was made as a part of [CS50 WEB](https://cs50.harvard.edu/web/2020/#:~:text=CS50%E2%80%99s%20Web%20Programming%20with%20Python%20and%20JavaScript) in order to gain a better understanding of HTML and CSS elements.
