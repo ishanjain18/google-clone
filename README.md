@@ -1,102 +1,20 @@
 # Google-Clone
-A front-end clone of Google Search including Image and Advanced Search made from scratch using HTML &amp; CSS. 
+A front-end clone of Google Search including Image and Advanced Search made from scratch using HTML &amp; CSS.
 
-Deployed at - [LINK](https://ishanjain18.github.io/google-clone/index.html)
+## Design and Functionality
 
+This mini-project was made to match the aesthetics of Google Search, Image Search and Advanced search as closely as possible. To make things a little more interesting, the pages were designed to have a Monochrome look/theme.
 
-<h1 align="center">Welcome to readme-md-generator 👋</h1>
-<p align="center">
-  <img src="https://img.shields.io/npm/v/readme-md-generator.svg?orange=blue" />
-  <a href="https://www.npmjs.com/package/readme-md-generator">
-    <img alt="downloads" src="https://img.shields.io/npm/dm/readme-md-generator.svg?color=blue" target="_blank" />
-  </a>
-  <a href="https://github.com/kefranabg/readme-md-generator/blob/master/LICENSE">
-    <img alt="License: MIT" src="https://img.shields.io/badge/license-MIT-yellow.svg" target="_blank" />
-  </a>
-  <a href="https://codecov.io/gh/kefranabg/readme-md-generator">
-    <img src="https://codecov.io/gh/kefranabg/readme-md-generator/branch/master/graph/badge.svg" />
-  </a>
-  <a href="https://github.com/frinyvonnick/gitmoji-changelog">
-    <img src="https://img.shields.io/badge/changelog-gitmoji-brightgreen.svg" alt="gitmoji-changelog">
-  </a>
-  <a href="https://twitter.com/FranckAbgrall">
-    <img alt="Twitter: FranckAbgrall" src="https://img.shields.io/twitter/follow/FranckAbgrall.svg?style=social" target="_blank" />
-  </a>
-</p>
+The core-functionalities are achieved by redirecting to Google's original Search, Using the name attribute within HTML to convert queries into GET parameters included in the Google Search URL.
 
-> CLI that generates beautiful README.md files.<br /> `readme-md-generator` will suggest you default answers by reading your `package.json` and `git` configuration.
+1. Visit - [LINK](https://ishanjain18.github.io/google-clone/index.html)
+2. Use just as you would with normal google search.
 
-## ✨ Demo
+## Motivation
 
-`readme-md-generator` is able to read your environment (package.json, git config...) to suggest you default answers during the `README.md` creation process:
+This mini-project was made as a part of (CS50 WEB)[https://cs50.harvard.edu/web/2020/#:~:text=CS50%E2%80%99s%20Web%20Programming%20with%20Python%20and%20JavaScript] in order to gain a better understanding of HTML and CSS elements.
 
-<p align="center">
-  <img width="700" align="center" src="https://user-images.githubusercontent.com/9840435/60266022-72a82400-98e7-11e9-9958-f9004c2f97e1.gif" alt="demo"/>
-</p>
-
-Generated `README.md`:
-
-<p align="center">
-  <img width="700" src="https://user-images.githubusercontent.com/9840435/60266090-9cf9e180-98e7-11e9-9cac-3afeec349bbc.jpg" alt="cli output"/>
-</p>
-
-Example of `package.json` with good meta data:
-
-```json
-// The package.json is not required to run README-MD-GENERATOR
-{
-  "name": "readme-md-generator",
-  "version": "0.1.3",
-  "description": "CLI that generates beautiful README.md files.",
-  "author": "Franck Abgrall",
-  "license": "MIT",
-  "homepage": "https://github.com/kefranabg/readme-md-generator#readme",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/kefranabg/readme-md-generator.git"
-  },
-  "bugs": {
-    "url": "https://github.com/kefranabg/readme-md-generator/issues"
-  },
-  "engines": {
-    "npm": ">=5.5.0",
-    "node": ">=9.3.0"
-  }
-}
-```
-
-## 🚀 Usage
-
-Make sure you have [npx](https://www.npmjs.com/package/npx) installed (`npx` is shipped by default since npm `5.2.0`)
-
-Just run the following command at the root of your project and answer questions:
-
-```sh
-npx readme-md-generator
-```
-
-Or use default values for all questions (`-y`):
-
-```sh
-npx readme-md-generator -y
-```
-
-Use your own `ejs` README template (`-p`):
-
-```sh
-npx readme-md-generator -p path/to/my/own/template.md
-```
-
-You can find [ejs README template examples here](https://github.com/kefranabg/readme-md-generator/tree/master/templates).
-
-## Code Contributors
-
-This project exists thanks to all the people who contribute. [[Contribute](CONTRIBUTING.md)].
-<a href="https://github.com/kefranabg/readme-md-generator/graphs/contributors"><img src="https://opencollective.com/readme-md-generator/contributors.svg?width=890&button=false" /></a>
-
-## Financial Contributors
-
-Become a financial contributor and help us sustain our community. [[Contribute](https://opencollective.com/readme-md-generator/contribute)]
+## Highlights
 
 ### Individuals
 
